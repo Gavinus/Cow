@@ -4,7 +4,7 @@ console.log(myObject);
 var cowsay = require("cowsay");
 
 console.log(cowsay.say({
-    text : "I'm a moooodule",
+    text : `I'm ${myObject.nom} and my campus is ${myObject.campus}  `,
     e : "oO",
     T : "U "
 }));

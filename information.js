@@ -1,8 +1,8 @@
 const myObject = {
-    nom : "Gav",
+    nom : "Gavinus",
     campus : "biarritz",
 
 }
-module.exports = {
+module.exports = 
     myObject
-  };
+  ;
